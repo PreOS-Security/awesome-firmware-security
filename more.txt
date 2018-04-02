@@ -1,0 +1,84 @@
+BIOS Implementation Test Suite (BITS)
+The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. It includes a CPython compiled as a raw BIOS application.
+https://biosbits.org/
+
+DarwinDumper
+DarwinDumper is an open source project which is a collection of scripts and tools to provide a convenient method to quickly gather a system overview of your OS X System.
+https://bitbucket.org/blackosx/darwindumper
+
+Eclipse UEFI EDK2 Wizards Plugin
+This Eclipse plugin helps EDK2 developers use the Eclipse IDE with CDT for doing UEFI development.
+https://github.com/ffmmjj/uefi_edk2_wizards_plugin
+
+EFIgy
+Duo Security's EFIgy is an open source Apple Mac-centric tool that checks if the system has the most up-to-date EFI firmware.
+https://efigy.io
+
+Firmadyne
+Firmadyne is an automated and scalable system for performing emulation and dynamic analysis of Linux-based embedded firmware.
+https://github.com/firmadyne/firmadyne
+
+Firmware.re
+http://firmware.re/
+Firmware.RE is a free service that unpacks, scans and analyzes almost any firmware package and facilitates the quick detection of vulnerabilities, backdoors and all kinds of embedded malware. 
+
+GRUB v2
+GRUB is the popular boot loader, which lets you select multiple operating systems. It compiles as a BIOS or a UEFI application.
+
+Hardware Security Training
+The Hardware Security Training company is a collection of multiple hardware/firmware security trainers.
+https://hardwaresecurity.training/
+
+Heads
+Heads is a platform firmware technology, a payload that includes a minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
+https://github.com/osresearch/heads
+
+OpenBMC
+https://github.com/openbmc/openbmc
+The OpenBMC project can be described as a Linux distribution for embedded devices that have a BMC; typically, but not limited to, things like servers, top of rack switches or RAID appliances. The OpenBMC stack uses technologies such as Yocto, OpenEmbedded, systemd, and D-Bus to allow easy customization for your server platform.
+
+LAVA
+LAVA is an automated validation architecture primarily aimed at testing deployments of systems based around the Linux kernel on ARM devices, specifically ARMv7 and later.
+https://validation.linaro.org/
+
+LinuxBoot
+LinuxBoot is a platform firmware technology that replaces specific firmware functionality like the UEFI DXE phase with a Linux kernel and runtime.
+https://www.linuxboot.org/
+
+Linux on UEFI
+Roderick W. Smith has an online book with information on UEFI and Linux, showing how to use multiple boot loaders.
+http://www.rodsbooks.com/linux-uefi/
+
+Linux Shim
+The Shim is a UEFI boot loader, which loads another UEFI boot loader, perhaps with a different license, and signed by another vendor. There are multiple forks of Shim in the wild.
+https://github.com/rhboot/shim
+https://docs-old.fedoraproject.org/en-US/Fedora/18/html/UEFI_Secure_Boot_Guide/sect-UEFI_Secure_Boot_Guide-Implementation_of_UEFI_Secure_Boot-Shim.html
+
+Linux Stub
+The Linux kernel can be built so that the kernel is both a BIOS and a EFI boot loader.
+https://www.kernel.org/doc/Documentation/efi-stub.txt
+
+Linux Foundation Workstation Security Policy
+The Linux Foundation has a collection of IT Policies, for Linux systems, it includes some firmware security guidance.
+https://github.com/lfit/itpol
+
+microcode
+Microcode is a form of firmware for the CPU. Systems need microcode updates just like they need platform firmware updates, and OS updates.
+https://en.wikipedia.org/wiki/Microcode
+
+rEFInd
+rEFInd is the successor to rEFIt, a UEFI boot loader that lets you select multiple operating systems.
+http://www.rodsbooks.com/refind/
+
+Sandsifter
+Sandsifter is an x86 fuzzer.
+https://github.com/xoreaxeaxeax/sandsifter
+
+UEFI Utilities
+Finnbarr P. Murphy's UEFI Utilities is a collection of UEFI Shell utilities that provide system diagnostic information. (It also includes a copy of ThinkPwn.efi, be careful.)
+https://github.com/fpmurphy/UEFI-Utilities-2018
+
+Visual UEFI
+Visual UEFI is a plugin for Visual Studio that lets Visual Studio users do UEFI EDK2 development without having to know the details of the EDK2 build process, which is not like the Visual Studio build process.
+https://github.com/ionescu007/VisualUefi
+
