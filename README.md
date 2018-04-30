@@ -2,6 +2,8 @@
 
 Awesome Firmware Security is a curated list of platform firmware resources, with a focus on security and testing. Created by [PreOS Security](https://preossec.com).
 
+**_ObDisclaimer_**: Firmware is software. But, while you can wipe and reinstall software on your hard drive, it is possible to brick your system when working with the firmware. Use care, and proceed at your own risk.
+
 **_NOTE_**: IoT / embedded operating system security is not included, unless they happen to overlap with platform security, such as Intel AMT, AMD PSP, Redfish, IPMI, BMC, OpenBMC. There are already awesome IoT/embedded operating system lists. eg: [Awesome IoT](https://github.com/HQarroum/awesome-iot)
 
 ---
@@ -84,6 +86,12 @@ Each of these technologies are awesome in their own right, and we'll make a stan
 
 ## Tools
 
+**_ObDisclaimer_**: Reading about firmware is one thing, but using these tools can be dangerous. You can brick your system - proceed with caution and at your own risk.
+
+### Open Source
+
+**_NOTE_**: For security and safety purposes, open source software is auditable and verifiable. But beware that working with firmware is more dangerous than working with software installed on a hard disk you can wipe and reinstall. You can brick your system! Proceed with caution and at your own risk.
+
 * [ACPICA tools](https://acpica.org/downloads) - provides tools and a reference implementation of ACPI.
 * [acpidump](https://acpica.org/) - Cross-platform OS-present tool from ACPICA to dump and diagnose ACPI tables.
 * [BIOS Implementation Test Suite](https://biosbits.org/) - The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. It includes a CPython compiled as a raw BIOS application.
@@ -115,6 +123,12 @@ Each of these technologies are awesome in their own right, and we'll make a stan
 * [UEFITool](https://github.com/LongSoft/UEFITool) - UEFITool is a GUI program that parses firmware 'blobs', mainly UEFI ones.  In addition to the UEFITool Qt GUI tool, the UEFITool source project also includes a handful of non-GUI command line tools, including UEFIDump. UEFITool has two source trees to be aware of, master and new-engine.
 * [Visual UEFI](https://github.com/ionescu007/VisualUefi) - Visual UEFI is a plugin for Visual Studio that lets Visual Studio users do UEFI EDK2 development without having to know the details of the EDK2 build process, which is not like the Visual Studio build process. 
 * [zenfish IPMI tools](https://github.com/zenfish/ipmi) - IMPI security testing tools by Dan Farmer of [SATAN](http://www.fish2.com/satan/) fame.
+
+### Closed Source
+
+**_SPECIAL NOTE_**: Closed source software is not auditable or verifiably safe or secure. The risk of malware is higher, and with firmware the risk of bricking your system is always present. These are potentially "awesome" tools, but this list does not constitute a recommendation for use. Proceed with caution and at your own risk.
+
+
 
 ## Documentation, Books and Training
 
