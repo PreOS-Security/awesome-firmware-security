@@ -118,6 +118,7 @@ Each of these technologies are awesome in their own right, and we'll make a stan
 * [RU.EFI](https://github.com/JamesAmiTw/ru-uefi/) - RU.EFI is a third-party freeware firmware tool that has multiple features. It works as a MS-DOS or UEFI Shell utility.
 * [RWEverything](http://rweverything.com/) - RWEverything (RWE) is a third-party freeware firmware tool that has multiple features. The tools works on Windows. The CHIPSEC tool, if the CHIPSEC Windows kernel driver is not loaded, can use the RWE kernel driver.
 * [Sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - Sandsifter is an x86 fuzzer.
+* [TXT Suite](https://github.com/9elements/txt-suite) - The Intel TXT validation suite tests whether the platform supports Intel TXT and FIT and checks if the TPM boot chain has been configured correctly.
 * [UEFI Utilities](https://github.com/fpmurphy/UEFI-Utilities-2018) - UEFI Utilities is a collection of UEFI Shell utilities that provide system diagnostic information. (It also includes a copy of ThinkPwn.efi, be careful.) 
 * [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser) - UEFI Firmware Parser examines firmware 'blobs', mainly UEFI ones.
 * [UEFITool](https://github.com/LongSoft/UEFITool) - UEFITool is a GUI program that parses firmware 'blobs', mainly UEFI ones.  In addition to the UEFITool Qt GUI tool, the UEFITool source project also includes a handful of non-GUI command line tools, including UEFIDump. UEFITool has two source trees to be aware of, master and new-engine.
