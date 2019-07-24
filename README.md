@@ -152,4 +152,5 @@ Each of these technologies are awesome in their own right, and we'll make a stan
 * [NSA Common Criteria for PC BIOS Protection](https://www.niap-ccevs.org/Profile/Info.cfm?PPID=306&id=306) -  This 2013 Common Criteria Standard Protection Profile (PP) for PC firmware. Addresses the primary threat that an adversary will modify or replace the BIOS on a PC client device and compromise the PC client environment in a persistent way. There aren't any firmware solutions taht meet this profile, but reading the threat model is useful background.
 * [One-Stop Shop for UEFI Links](https://github.com/uefitech/resources/blob/master/README.md) - One-Stop Shop for UEFI/BIOS Specifications/Tools Maintained by UEFI.Tech Community
 * [Open Security Training Intro to BIOS & SMM](http://opensecuritytraining.info/IntroBIOS.html) - Introduction to BIOS and SMM course materials.
+* [Open Source Firmware Conference](https://osfc.io) - Annual conference about open source firmware and osf security.
 * [Rootkits and Bootkits](https://nostarch.com/rootkits) - This is the only book on firmware security at the time, writen by firmware security experts.
